@@ -1,2 +1,2 @@
 # queue-stl
-A queue implementation using STL
+A queue and stack implementation using STL, with example files
